@@ -47,7 +47,7 @@ At this level, the project will:
 - include tests and continuous integration
 - produce audit-friendly repository structures
 
-- What gets generated:
+What gets generated:
 
 ```
 my-vault/
@@ -71,6 +71,7 @@ OPERATIONS.md
 .github/workflows/ci.yml
 README.md
 LICENSE
+```
 
 This structure is audit-friendly:
 - policies are separated
